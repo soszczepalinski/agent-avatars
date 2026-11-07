@@ -10,7 +10,8 @@
 (function () {
   var NAMES = {
     "mr-builder": "Mr. Builder", "mr-tester": "Mr. Tester", "miss-optimizer": "Miss Optimizer",
-    "mrs-thinker": "Mrs. Thinker", "mr-talker": "Mr. Talker"
+    "mrs-thinker": "Mrs. Thinker", "mr-talker": "Mr. Talker", "mr-balance": "Mr. Balance",
+    "designer": "Designer", "old-guard": "Old Guard"
   };
   var me = document.currentScript, base = me.src.replace(/[^\/]*$/, "");
   var css = document.createElement("style");
